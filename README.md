@@ -16,4 +16,4 @@ The percentage of votes each candidate won
 The total number of votes each candidate won
 The winner of the election based on popular vote
 
-With the help of my class notes, the TA, google and chatgpt to help with some errors, I completed this assignment.
+With the help of my class notes, the TA, googling functions and chatgpt to help with some errors, I completed this assignment.
